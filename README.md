@@ -2,7 +2,7 @@
 - 👀 I’m interested in VPS Server Cloud
 - 🌱 I’m currently learning Ubuntu 20.04
 - 💞️ I’m looking to collaborate on supporttec.com
-- 📫 How to reach me webmaster@suburbak.com
+- 📫 How to reach me suburbaker@suburbak.com
 - 😄 Pronouns: suburbak
 - ⚡ Fun fact: Free Fire Garena
 
